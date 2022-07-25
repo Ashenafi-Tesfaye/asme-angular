@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+.hr {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: blue;
+}
